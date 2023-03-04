@@ -156,66 +156,66 @@ MonoBehaviour:
   - Anchor:
       type: 0
       NextPoint:
-        x: 0
-        y: 0
+        x: -0.23333335
+        y: -1.9333332
       PrevPoint:
-        x: 0
-        y: 0
+        x: -0.23333335
+        y: -1.9333332
       Position:
-        x: -1
-        y: -1
+        x: -1.2333333
+        y: -2.9333332
+    IsSelectedPoint: 0
+    IsSelectedNextPinch: 0
+    IsSelectedPrevPinch: 0
+    isHighlighted: 0
+    IsMultiSelection: 0
+  - Anchor:
+      type: 0
+      NextPoint:
+        x: -4.181661
+        y: -0.96539783
+      PrevPoint:
+        x: -4.181661
+        y: -0.96539783
+      Position:
+        x: -5.181661
+        y: 0.034602076
     IsSelectedPoint: 0
     IsSelectedNextPinch: 0
     IsSelectedPrevPinch: 0
     isHighlighted: 1
     IsMultiSelection: 0
   - Anchor:
-      type: 0
+      type: 3
       NextPoint:
-        x: 0.412385
-        y: 0.06332147
+        x: -0.9602076
+        y: 4.221453
       PrevPoint:
-        x: 0.412385
-        y: 0.06332147
+        x: -3.9601293
+        y: 1.1548668
       Position:
-        x: -0.587615
-        y: 1.0633215
-    IsSelectedPoint: 1
-    IsSelectedNextPinch: 0
+        x: -2.5173008
+        y: 2.629758
+    IsSelectedPoint: 0
+    IsSelectedNextPinch: 1
     IsSelectedPrevPinch: 0
     isHighlighted: 0
     IsMultiSelection: 0
   - Anchor:
       type: 3
       NextPoint:
-        x: 1.8895952
-        y: 3.0029254
+        x: 6.3408303
+        y: 5.7439446
       PrevPoint:
-        x: -0.25321865
-        y: 1.9145119
-      Position:
-        x: 0.70437074
-        y: 2.4009066
-    IsSelectedPoint: 0
-    IsSelectedNextPinch: 0
-    IsSelectedPrevPinch: 0
-    isHighlighted: 1
-    IsMultiSelection: 0
-  - Anchor:
-      type: 3
-      NextPoint:
-        x: 2.9803286
-        y: 2.039895
-      PrevPoint:
-        x: 1.7683591
-        y: 2.9633007
+        x: 1.7893213
+        y: 1.9641631
       Position:
         x: 2.406752
         y: 2.4769058
     IsSelectedPoint: 0
     IsSelectedNextPinch: 0
     IsSelectedPrevPinch: 0
-    isHighlighted: 0
+    isHighlighted: 1
     IsMultiSelection: 0
   - Anchor:
       type: 3
@@ -236,14 +236,14 @@ MonoBehaviour:
   - Anchor:
       type: 0
       NextPoint:
-        x: 2.8033392
-        y: -1.2820039
+        x: 3.8183389
+        y: -1.1799307
       PrevPoint:
-        x: 2.8033392
-        y: -1.2820039
+        x: 3.8183389
+        y: -1.1799307
       Position:
-        x: 3.8033392
-        y: -2.2820039
+        x: 4.818339
+        y: -2.1799307
     IsSelectedPoint: 0
     IsSelectedNextPinch: 0
     IsSelectedPrevPinch: 0
