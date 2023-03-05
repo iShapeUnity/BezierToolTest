@@ -191,14 +191,14 @@ MonoBehaviour:
         x: -0.9602076
         y: 4.221453
       PrevPoint:
-        x: -3.9601293
-        y: 1.1548668
+        x: -4.870242
+        y: 1.2456747
       Position:
         x: -2.5173008
         y: 2.629758
     IsSelectedPoint: 0
-    IsSelectedNextPinch: 1
-    IsSelectedPrevPinch: 0
+    IsSelectedNextPinch: 0
+    IsSelectedPrevPinch: 1
     isHighlighted: 0
     IsMultiSelection: 0
   - Anchor:
